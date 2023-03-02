@@ -370,3 +370,752 @@ button.h {
         font-size: 13px;
     }
 }
+
+/* page-2 */
+
+
+@media (max-width:1024px) {
+    .v-pic {
+        width: 55%;
+        /* margin: auto; */
+    }
+    .v-pic img {
+        /* width: 100%; */
+        height: 26vw !important;
+  
+        margin-left: 1%;
+    }
+    .v-p {
+        font-size: 17px;
+        font-weight: 600;
+       
+    }
+    .sm-pic {
+        width: 50% ;
+    }
+   
+    .sm-pic img {
+        height:4vw !important ;
+    }
+   .pic-txt {
+    width: 30%;
+    margin-left: 2.4%;
+}
+    p.name {
+        font-size: 16px;
+        /* font-weight: 400;
+        color: white; */
+    }
+    p.s-cciber {
+        font-size: 10px;
+        /* font-weight: 400; */
+        width: 191%;
+    }
+    button.sub-0-btn {
+        font-size: 16px;
+      
+        margin-left:56%;
+        width: 160%;
+
+    }
+
+    .m-01 {
+        /* display: flex;
+        margin-top: 2%; */
+        flex-wrap: nowrap;
+        /* width: 100%; */
+    }
+    .m-1 {
+        
+        width: 63%;
+
+    }
+    .three-btn {
+    
+        width: 95%;
+        /* margin: auto; */
+        display: flex;
+        justify-content: space-between;
+        margin-top: 1%;
+    }
+    button.like {
+        font-size: 16px;
+        font-weight: 400;
+        padding-top: 1.7%;
+        width: 41%;
+
+    
+        height: 4vw;
+    }
+    button.dislike {
+      
+        width: 8vw;
+        height: 4vw;
+        /* padding-top: 3%; */
+        /* padding-bottom: 3%; */
+        padding-top: 1.7%;
+    }
+    button.o{
+
+    width: 5vh;
+    height:3.4vw !important;
+    padding-top: 1.7%;
+}
+.discription {
+width: 49% !important;
+    margin-top: -59% !important;
+}
+p.d1-p {
+    font-size: 14px;
+    width: 137%;
+
+}
+.card-body {
+    width: 45vw;
+  
+    font-size: 14px;
+
+}
+.comnt {
+    width: 4%;
+}
+.comnt img{
+    height: 4vw !important;
+}
+h4.cmnt-hdr {
+    font-size: 16px;
+}
+p.cmnt-p {
+    font-size: 14px;
+    width: 52%;
+}
+
+
+p.week {
+    font-size: 13px;
+
+    padding-top: 0.4%;
+}
+.reply {
+width: 20%;
+    justify-content: space-between;
+}
+button.rep {
+    /* margin-left: 4%; */
+    width: 36%;
+}
+.row {
+   
+    width: 45%;
+
+}
+.cd-00 img {
+    /* width: 100%; */
+    border-radius: 0.5rem;
+}
+.p-002 {
+    font-size: 12px;
+}
+    
+}
+@media (max-width:768px){
+    .video {
+  
+        flex-wrap:wrap;
+    }
+    .v-pic {
+        width: 59%;
+        /* margin: auto; */
+    }
+    .v-pic img {
+        width: 119%;
+        height: 34vw !important;
+        margin-left: 6vw;
+        margin-top: 2%;
+    }
+    .v-p {
+        font-size: 15px;
+    }
+    .pic-txt {
+        /* width: 30%; */
+        margin-left: -12% !important;
+    }
+    .sm-pic{
+        width: 14% !important;
+    }
+    .sm-pic img {
+        height: 4.4vw !important;
+
+        margin-left: 1% !important;
+    }
+    button.sub-0-btn {
+        /* font-size: 16px; */
+        width: 230%;
+        /* height: 5.5vw; */
+        margin-left: -14%;
+    }
+
+    .m-01 {
+        flex-wrap: nowrap;
+        width: 160%;
+    }
+    .m-1 {
+        width: 72%;
+    }
+    .three-btn {
+        
+            /* width: -1%; */
+            /* margin: auto; */
+            /* display: flex; */
+            /* justify-content: space-between; */
+            width: 78%;
+            margin-left: 28%;
+            /* background-color: aliceblue; */
+            margin-top: 1.2%;
+        }
+        
+        button.like {
+
+            height: 4.4vw;
+        }
+        button.dislike {
+width: 13vw;
+            height: 4.4vw;
+        }
+        button.o {
+
+            height: 4.8vw;
+        }
+        .discription {
+            width: 85% !important;
+            margin-top: -149% !important;
+            height: 16vw !important;
+        }
+
+        .card-body {
+            width: 84.9vw;
+            /* font-size: 14px; */
+            margin-top: -23%;
+            margin-left: -2.4%;
+        }
+        p.d1-p {
+            /* font-size: 14px; */
+            width: 114%;
+        }
+
+        .m-comnt {
+            margin-top: 125%;
+        }
+        .comnt {
+            width: 5%;
+        }
+        .comnt img {
+    height: 4.4vw !important;
+    margin-left: 1% !important;
+        }
+        h4.cmnt-hdr {
+            font-size: 14px;
+        }
+        p.cmnt-p {
+            font-size: 13px;
+        }
+        p.week {
+            font-size: 12px;
+        }
+        button.rep {
+            /* margin-left: 4%; */
+            width: 42%;
+            height: 4vw;
+        }
+        .row {
+            width: 55%;
+            margin-top: 26%;
+            margin-bottom: 13%;
+        }
+        
+        button.h {
+            font-size: 12px;
+            width: 7.7vw;
+        }
+        .cd-00 img {
+            /* width: 100%; */
+            border-radius: 0.35rem;
+            height: 10vw;
+        }
+        .p-02 {
+            font-size: 12px;
+            font-weight: 400;
+        }
+        .p-002 {
+            font-size: 11px;
+        }
+        .crds-0 {
+            /* width: 100%;
+            margin-top: 2%; */
+            /* margin-left: -19vw; */
+        }
+        .cd-00 {
+            display: flex;
+            width: 122%;
+        }
+        .cd-00 img {
+            /* width: 100%; */
+            /* border-radius: 0.35rem;
+            height: 10vw; */
+            height: 10vw !important;
+        }
+            
+    }
+
+    @media (max-width:426px) {
+        .v-pic {
+            width: 93% !important;
+            /* margin: auto; */
+        }
+        .v-pic img {
+            width: 100%;
+            height: 54vw !important;
+            margin-left: 4vw !important;
+            /* margin-top: 5%; */
+        }
+        .v-p {
+            /* font-size: 15px; */
+            margin-left: 3%;
+        }
+        /* .v-pic img {
+            width: 100%;
+            height: 52vw !important;
+            margin-left: 2vw;
+            margin-top: 5%;
+        } */
+
+        .sm-pic {
+            width: 17% !important;
+        }
+
+        .sm-pic  img{
+            height: 10vw !important;
+            margin-left: 1% !important;
+        }
+        .m-01 {
+            flex-wrap: wrap;
+            width: 86%;
+        }
+        .m-1 {
+            width: 84%;
+        }
+        button.sub-0-btn {
+            /* font-size: 16px; */
+            width: 200%;
+            /* height: 5.5vw; */
+        }
+        .three-btn {
+            /* margin: auto; */
+            /* display: flex; */
+            /* justify-content: space-between; */
+            width: 100%;
+            margin-left: 2%;
+            /* background-color: aliceblue; */
+            /* margin-top: 1.2%; */
+        }
+
+
+        button.like {
+            height: 9vw;
+            width: 45%;
+        }
+        button.dislike {
+            width: 23vw;
+            height: 9vw;
+        }
+        button.o {
+            height: 8vw !important;
+            width: 12%;
+        }
+
+        .btn-primary {
+            /* margin-left: -3%;
+            font-size: 13px; */
+            margin-top: -5% !important; 
+        }
+        .discription {
+            width: 75% !important;
+            margin-top: -280vw !important;
+            /* margin-bottom: 3%; */
+            height: 27vw !important;
+        }
+        .card-body {
+            width: 74vw;
+            font-size: 10px;
+            margin-top: -43%;
+            margin-left: -2.4%;
+        }
+        .btn-primary {
+           
+            margin-left: -3%;
+            font-size: 13px;
+           
+            margin-top: -14% !important;
+        }
+        p.d1-p {
+            font-size: 10px;
+        }
+
+        .flex {
+            /* flex-direction: column-reverse; */
+            /* display: flex !important; */
+            /* flex-direction: column-reverse; */
+        }
+        .row {
+            width: 107%;
+            margin-top: 50%;
+        }
+        button.h {
+            font-size: 13px;
+            width: 14vw;
+        }
+
+        .crds-0 {
+            margin-left: -19vw;
+        }
+        .cd-00 {
+            /* display: flex; */
+            width: 100%;
+        }
+        .cd-00 img {
+            width: 100%;
+            height: 20vw !important;
+            margin-left: 23% !important;
+        
+        }
+        .pic-text-02 {
+            /* background-color: antiquewhite; */
+            width: 324% !important;
+            margin-left: 2%;
+            margin-top: 6%;
+        }
+        .p-02 {
+            font-size: 13px;
+            width: 194% !important;
+            margin-top: -8% !important;
+            font-weight: 400;
+        }
+        .p-002 {
+            font-size: 11px;
+            width: 150%;
+        }
+
+        .m-comnt {
+            margin-top: 250%;
+        }
+        .comment {
+            margin-left: 7%;
+        }
+        .comnt {
+            width: 9%;
+        }
+        .comnt img{
+            height: 9vw !important;
+            /* margin-left: 19%; */
+            margin-left: -10% !important;
+        }
+        .cmnt-txt {
+        
+            margin-left: 3%;
+        }
+        h4.cmnt-hdr {
+            font-size: 13px;
+        }
+        p.week {
+            font-size: 11px;
+        }
+        p.cmnt-p {
+            font-size: 12px;
+            width: 100%;
+        }
+        .reply {
+    width: 40%;
+}
+        button.rep {
+         margin-left: 4%;
+         width: 44%;
+    height: 7vw;
+}
+    }
+    @media (max-width:376px){
+        .btn-primary {
+            
+            font-size: 12px;
+            margin-top: -11% !important;
+        }
+        .discription {
+           
+            height: 31vw;
+            width: 88%;
+        }
+        .btn-primary {
+            /* font-size: 12px; */
+            margin-top: -18% !important;
+        }
+
+        .card-body {
+            width: 133%;
+            font-size: 8px;
+            margin-top: -62%;
+        }
+        button.sub-0-btn {
+            /* font-size: 16px; */
+            width: 170%;
+            /* height: 5.5vw; */
+        }
+        button.dislike {
+         
+            font-size: 13px;
+            padding-top: 6px;
+        }
+        p.d1-p {
+            font-size: 10px;
+        }
+        .row {
+            width: 111%;
+           }
+           .numb-btn {
+            width: 13%;
+        }
+        .reply {
+          
+            width: 56%;
+        }
+        button.rep {
+        
+            width: 51%;
+            height: 8vw;
+        }
+}
+@media (max-width:321px){
+
+    .discription {
+        width: 72% !important;
+        margin-top: -352vw !important;
+    }
+    p.d1-p {
+        font-size: 8px;
+    }
+
+    .btn-primary {
+        font-size: 10px;
+        margin-top: -23% !important;
+    }
+
+    .card-body {
+        width: 132%;
+        font-size: 8px;
+        margin-top: -63%;
+    }
+    .v-pic img {
+        width: 105%;
+        height: 60vw !important;
+        margin-left: 0vw !important;
+        /* margin-top: 5%; */
+    }
+    .sm-pic img{
+        height: 10vw !important;
+    }
+    .pic-txt {
+        margin-left: 4%;
+    }
+    p.name {
+        font-size: 14px;
+    }
+    p.s-cciber {
+        font-size: 9px;
+        /* font-weight: 400; */
+    }
+    button.sub-0-btn {
+        /* font-size: 16px; */
+        width: 130%;
+        /* height: 5.5vw; */
+    }
+    button.like {
+        height: 10.4vw !important;
+        /* width: 45%; */
+    }
+    button.dislike {
+       
+        height: 10vw;
+    }
+    
+    .row {
+        width: 116%;
+    }
+    button.h {
+        font-size: 11px;
+        width: 15vw;
+    }
+    .cd-00 img {
+        height: 24vw !important;
+        margin-left: 20% !important;
+    }
+    .m-comnt {
+        margin-top: 303%;
+    }
+    .comment {
+        margin-left: 4%;
+    }
+    .comnt {
+        width: 12% !important;
+    }
+    .comnt img{
+height: 12vw  !important;
+    }
+    p.cmnt-p {
+
+        margin-top: -7%;
+    }
+    .reply {
+        width: 61%;
+    }
+
+}
+
+@media (max-width:1024px) {
+    .sidebar {
+
+        padding-top: 2%;
+    }
+    .m1-row {
+        
+        width: 100% !important;
+        
+    }
+    .st-bg {
+
+        width: 31%;
+        height: 55vw;
+       border-radius: 1rem !important;
+        margin-left: 38%;
+    }
+    .five-btn {
+        margin-right: 23%;
+        margin-top: 7%;
+    }
+        .all {
+
+            margin-top: 39%;
+        }
+        button.f-btn {
+          
+            width: 5vw;
+            height: 5vw;
+           
+        }
+    
+}
+@media (max-width:768px){
+
+    .sidebar a {
+        
+        padding-bottom: 1%;
+    }
+    .all {
+        margin-top: 33%;
+    }
+    p.shrt-p {
+        font-size: 13px;
+
+    }
+    .at-p {
+        font-size: 13px;
+        /* font-weight: 500; */
+        width: 100%;
+        margin-left: 5%;
+    }
+    .shrt-pic img {
+        width: 3vw;
+        
+    }
+    .sb-btn {
+        margin-top: -1%;
+    }
+    button.sb-01-btn {
+        
+        width: 120%;
+  
+    }
+    .five-btn {
+        margin-right: 22%;
+        margin-top: 2%;
+    }
+    button.f-btn {
+        font-size: 19px;
+        
+}
+
+p.heart {
+
+    width: 61%;
+    font-size: 13px;
+    
+    /* background-color: antiquewhite; */
+}
+p.hrt {
+    font-size: 13px;
+   
+    /* background: cadetblue; */
+    margin-left: -15%;
+}
+}
+@media (max-width:426px){
+    .st-bg {
+        width: 63% !important;
+        height: 102vw !important; 
+        border-radius: 0.75rem !important;
+        margin-left: 17%;
+    }
+
+    .all {
+        margin-top: 74%;
+    }
+    .five-btn {
+        margin-right: 3%;
+        margin-top: 9%;
+    }
+    button.f-btn {
+        width: 10vw !important ;
+        height: 10vw !important;
+    }
+    .shrt-pic img {
+        width: 8vw !important; 
+        height: 8vw !important;
+    }
+}
+@media (max-width:376px){
+    .st-bg {
+    
+        height: 106vw !important;
+        width: 62% !important;
+    }
+}
+@media (max-width:321px){
+    .st-bg {
+        height: 114vw !important;
+        width: 67% !important;
+        margin-left: 12%;
+    }
+    .five-btn {
+        margin-right: 0%;
+    }
+    button.f-btn {
+        font-size: 18px;
+    }
+    p.heart {
+
+        font-size: 12px;
+        /* background-color: antiquewhite; */
+    }
+    p.hrt {
+        font-size: 12px;
+        /* background: cadetblue; */
+        margin-left: -18%;
+    }
+}
